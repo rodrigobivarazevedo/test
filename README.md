@@ -2,6 +2,10 @@
 
  image used from [www.medibot.com.au/ai-general-practice-dentist.php](http://www.medibot.com.au/ai-general-practice-dentist.php)  
  
+ 
+ 
+ 
+ ==How can AI create efficiency and effectiveness in Digital Health. What are the benefits and challenges to come.==
 ## Introduction
 
  Artificial intelligence (AI) is a rapidly growing technology that is being applied to various industries, 
