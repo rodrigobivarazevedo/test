@@ -5,7 +5,8 @@
  
  
  
-How can AI create efficiency and effectiveness in Digital Health. What are the benefits and challenges to come.
+# How can AI create efficiency and effectiveness in Digital Health. What are the benefits and challenges to come.
+
 ## Introduction
 
  Artificial intelligence (AI) is a rapidly growing technology that is being applied to various industries, 
