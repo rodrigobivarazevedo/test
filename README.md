@@ -65,8 +65,7 @@ Example: “Artificial intelligence in drug discovery and development.”
 ##                             Challenges
                            
 
-The development of AI in medicine requires the collaboration of multiple stakeholders, including clinicians, researchers, and industry partners. This collaboration is necessary to ensure that AI is used responsibly and ethically.
-Although it has the potential to revolutionize healthcare, there are still challenges that need to be addressed before it can be widely adopted. These challenges include cost, accuracy, and privacy.
+The responsible and ethical development of AI in medicine requires the collaboration of multiple stakeholders, including clinicians, researchers, and industry partners. Although it has the potential to revolutionize healthcare, there are still challenges that need to be addressed before it can be widely adopted. These challenges include cost, accuracy, and privacy.
 
 
 ### Cost
