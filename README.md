@@ -10,9 +10,7 @@
 ##                            Introduction
                              
 
-Artificial intelligence (AI) is an emerging technology revolutionizing the healthcare sector. It is transforming healthcare in a variety of ways, from improving patient care to streamlining administrative tasks. 
-The deployment of AI systems can improve efficiency in regard to cost and time management by automating administrative tasks and repetitive processes that can be streamlined. It can also increase the effectiveness of medical procedures as AI can be used to analyze specific data and make connections or predictions that humans may not be able to when trying to diagnose a patient or developing new drugs and treatments, enabling healthcare professionals to make more informed decisions. 
-This research paper will explore the potential improvements in healthcare with AI, the efficiency and effectiveness increase it could bring, and the challenges faced upon its implementation.
+Artificial intelligence (AI) is an emerging technology revolutionizing the healthcare sector. It is transforming healthcare in a variety of ways, from improving patient care to streamlining administrative tasks. The deployment of AI systems can improve efficiency regarding cost and time management by automating administrative tasks and repetitive processes that can be streamlined. It can also increase the effectiveness of medical procedures as AI can be used to analyze specific data and make connections or predictions that humans may not be able to when trying to diagnose a patient or developing new drugs and treatments, enabling healthcare professionals to make more informed decisions. This research paper will explore the potential improvements in healthcare with AI, the efficiency and effectiveness increase it could bring, and the challenges faced upon its implementation.
 
  “An overview of the applications of artificial intelligence”, (Dlamini et al., 2020d)
 
@@ -48,7 +46,7 @@ Example of “The role of AI technology in prediction, diagnosis and treatment o
 ### **Drug Discovery and Disease Modeling** 
 
 
-Developing new drugs can be more efficient. Large datasets can be analyzed and help to identify potential drug targets, as well as potential disease pathways. This can personalize the development of new treatments and better understand certain diseases pathogenesis. AI-driven drug discovery solutions have the potential to significantly reduce the cost and time involved in drug discovery and development. 
+Developing new drugs can be more efficient. Large datasets can be analyzed and help to identify potential drug targets, as well as potential disease pathways. This can personalize the development of new treatments and better understand certain diseases' pathogenesis. AI-driven drug discovery solutions have the potential to significantly reduce the cost and time involved in drug discovery and development. 
 
 Example: “Artificial intelligence in drug discovery and development.”
 
@@ -71,8 +69,7 @@ The responsible and ethical development of AI in medicine requires the collabora
 ### **Cost**
 
 
-As AI is still an emerging technology, we need to consider the total cost of ownership when implementing AI systems, as the cost can quickly add up and profit results may take some time to develop significantly. 
-Although implementing can be costly, in the long run, the expenses come up to be more efficient, meaning certain methods, tasks, and developments can become cheaper balancing or even generating profit from the initial investment, especially in the branch of screening and imaging tests.
+As AI is still an emerging technology, we need to consider the total cost of ownership when implementing AI systems, as the cost can quickly add up and profit results may take some time to develop significantly. Although implementing can be costly, in the long run, the expenses come up to be more efficient, meaning certain methods, tasks, and developments can become cheaper balancing, or even generating profit from the initial investment, especially in the branch of screening and imaging tests.
 
 Example of: : “Cost-effectiveness of artificial intelligence for screening colonoscopy: a modelling study”, (Areia et al., 2022b)
 
@@ -87,8 +84,7 @@ Example of: : “Cost-effectiveness of artificial intelligence for screening col
 ### **Accuracy**
 
 
-It is also important to know that AI systems are not perfect and can also create mistakes, such as misdiagnosis. To reduce the risk of errors, big amounts of data accompanied by high-processing computer units are required in order to successfully train and develop reliable AI systems. 
-This challenge with time will become less likely as the industry grows, budgets increase, and development becomes more advanced. With the advances in the industry, technologies such as cloud-based computing and deep learning will increase the effectiveness of AI, allowing enterprises to share, store, and analyze bigger sets of data, as the era of Big Data arises. 
+It is also important to know that AI systems are not perfect and can also create mistakes, such as misdiagnosis. To reduce the risk of errors, big amounts of data accompanied by high-processing computer units are required to successfully train and develop reliable AI systems. This challenge with time will become less likely as the industry grows, budgets increase, and development becomes more advanced. With the advances in the industry, technologies such as cloud-based computing and deep learning will increase the effectiveness of AI, allowing enterprises to share, store, and analyze bigger sets of data, as the era of Big Data arises. 
 
 Example: “Big Data and Artificial Intelligence Modeling for Drug Discovery.”, (Zhu, 2020)
 
@@ -103,7 +99,7 @@ Example: “Big Data and Artificial Intelligence Modeling for Drug Discovery.”
 ### **Privacy**
 
 
-With the rise of cloud-based solutions in AI systems, large amounts of personal data, such as medical records, data which can be sensitive and confidential are being created. It is important to ensure that it is secure and not used for any purpose other than the intended one. The way Cybersecurity evolves and budgets increase in the upcoming years will play a huge role in the deployment of AI in the future and the safe manipulation of highly personalized data. 
+With the rise of cloud-based solutions in AI systems, large amounts of personal data, such as medical records, and data that can be sensitive and confidential are being created. It is important to ensure that it is secure and not used for any purpose other than the intended one. The way Cybersecurity evolves and budgets increase in the upcoming years will play a huge role in the deployment of AI in the future and the safe manipulation of highly personalized data. 
 
 Example of: “European Cybersecurity Investment Platform.”, (European Investment Bank 2023, 2022)
 
@@ -128,15 +124,11 @@ image used from [ https://www.eib.org/attachments/lucalli/20220206-european-cybe
 ##                             Conclusion 
 
 
-AI technology is changing the healthcare industry, with the potential to revolutionize the way that doctors practice medicine. Although not perfect and still a lot to improve in regards to cost, accuracy and privacy.
-AI-driven healthcare solutions have the potential to increase the effectiveness and efficiency of diagnosis and treatment, reduce costs, and improve the overall quality of care, by automating processes, streamlining operations, and providing more accurate diagnoses. 
-Tasks and methods such as disease prevention, drug discovery, disease modeling, diagnosis, treatment and patient monitoring will be improved and more streamlined. Examples like scheduling appointments, billing, and patient health profiles can all be automated processes, as well as more personalized patient treatment and monitoring.
-
+AI technology is changing the healthcare industry, with the potential to revolutionize the way that doctors practice medicine. Although not perfect and still a lot to improve in regards to cost, accuracy, and privacy. AI-driven healthcare solutions have the potential to increase the effectiveness and efficiency of diagnosis and treatment, reduce costs, and improve the overall quality of care, by automating processes, streamlining operations, and providing more accurate diagnoses. Tasks and methods such as disease prevention, drug discovery, disease modeling, diagnosis, treatment, and patient monitoring will be improved and more streamlined. Examples like scheduling appointments, billing, and patient health profiles can all be automated processes, as well as more personalized patient treatment and monitoring. 
 The world is becoming more digitally oriented, and the amount of free and created data available has never been so much, big data and machine deep learning are the new focus in digital health, which allow us to analyze faster, create new correlations and predictions in such data quantities, which a few years ago would not be possible. 
+AI still has its challenges; its ethical and effective implementation will need the collaboration of all the required stakeholders in the health and other joint industries. 
+The healthcare industry is evolving and AI is there to follow and improve how to streamline and remodel the practice of medicine worldwide.
 
-AI still has its challenges; its ethical and effective implementation will need the collaboration of all the required stakeholders in the health and other joint industries.
-
-The healthcare industry is in an evolving state and AI is there to follow and improve how to streamline and remodel the practice of medicine worldwide.
 
   
  
