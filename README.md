@@ -23,7 +23,7 @@ image used from [https://www.sciencedirect.com/science/article/pii/S200103702030
 <br/>
 <br/>
 <br/>
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; ## **AI-Driven solutions in healthcare**
+##&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;**AI-Driven solutions in healthcare**
 <br/>
 <br/>
 <br/>
@@ -68,7 +68,7 @@ Example of: “Artificial intelligence in drug discovery and development.”
 <br/>
 <br/>
 <br/>
-## &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; **Challenges**
+## &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;**Challenges**
 <br/>
 <br/>
 The responsible and ethical development of AI in medicine requires the collaboration of multiple stakeholders, including clinicians, researchers, and industry partners. Although it has the potential to revolutionize healthcare, there are still challenges that need to be addressed before it can be widely adopted. These challenges include cost, accuracy, and privacy.
@@ -132,7 +132,7 @@ images used from [ https://www.eib.org/attachments/lucalli/20220206-european-cyb
 <br/>
 <br/>
 <br/>
-## &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; **Conclusion** 
+## &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;**Conclusion** 
 <br/>
 <br/>
 AI technology is changing the healthcare industry, with the potential to revolutionize the way that doctors practice medicine. **Although not perfect and still a lot to improve in regards to cost, accuracy, and privacy. AI-driven healthcare solutions have the potential to increase the effectiveness and efficiency of diagnosis and treatment, reduce costs, and improve the overall quality of care, by automating processes, streamlining operations, and providing more accurate diagnoses. Tasks and methods such as disease prevention, drug discovery, disease modeling, diagnosis, treatment, and patient monitoring will be improved and more streamlined.** Examples like scheduling appointments, billing, and patient health profiles can all be automated processes, as well as more personalized patient treatment and monitoring. 
