@@ -118,18 +118,16 @@ Example of: “European Cybersecurity Investment Platform.”, (European Investm
 <br/>
 <br/>
 ![](6_img.jpg)
-
-
-
+<br/>
+<br/>
 ![](7_img.jpg)
-
-
-
+<br/>
+<br/>
 ![](8_img.jpg)
 
 CAGR – the compound annual growth rate, is the annualized average rate of revenue growth between any given years.
 
-image used from [ https://www.eib.org/attachments/lucalli/20220206-european-cybersecurity-investment-platform-en.pdf](https://www.eib.org/attachments/lucalli/20220206-european-cybersecurity-investment-platform-en.pdf)
+images used from [ https://www.eib.org/attachments/lucalli/20220206-european-cybersecurity-investment-platform-en.pdf](https://www.eib.org/attachments/lucalli/20220206-european-cybersecurity-investment-platform-en.pdf)
 <br/>
 <br/>
 <br/>
