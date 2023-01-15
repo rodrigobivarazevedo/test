@@ -14,7 +14,8 @@ Artificial intelligence (AI) is an emerging technology revolutionizing the healt
 \
 \
  “An overview of the applications of artificial intelligence”, (Dlamini et al., 2020d)
-
+\
+\
 ![](1_img.jpg)
    
  image used from [https://www.sciencedirect.com/science/article/pii/S200103702030372X](https://www.sciencedirect.com/science/article/pii/S200103702030372X) 
