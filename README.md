@@ -23,9 +23,7 @@ Artificial intelligence (AI) is an emerging technology revolutionizing the healt
  \
  \
  \
- \
 ##                            **AI-Driven solutions in healthcare**
-\
 \
 \
 \
@@ -50,7 +48,6 @@ Example of: “The role of AI technology in prediction, diagnosis and treatment 
 \
 \
 \
-\
 ### **Drug Discovery and Disease Modeling** 
 \
 \
@@ -71,12 +68,10 @@ Example of: “Artificial intelligence in drug discovery and development.”
 \
 \
 \
-\
 ##                             **Challenges**
 \
 \
 The responsible and ethical development of AI in medicine requires the collaboration of multiple stakeholders, including clinicians, researchers, and industry partners. Although it has the potential to revolutionize healthcare, there are still challenges that need to be addressed before it can be widely adopted. These challenges include cost, accuracy, and privacy.
-\
 \
 \
 \
@@ -96,7 +91,6 @@ Example of: “Cost-effectiveness of artificial intelligence for screening colon
 \
 \
 \
-\
 ### **Accuracy**
 \
 \
@@ -110,7 +104,6 @@ Example of: “Big Data and Artificial Intelligence Modeling for Drug Discovery.
 ![](5_img.jpg)
 
  image used from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010403/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010403/) 
-\
 \
 \
 \
@@ -141,7 +134,6 @@ image used from [ https://www.eib.org/attachments/lucalli/20220206-european-cybe
 \
 \
 \
-\
 ##                             **Conclusion** 
 \
 \
@@ -154,8 +146,7 @@ The world is becoming more digitally oriented, and the amount of free and create
 \
 \
 \
-\
-\    
+\  
 ## Sources used 
 
  1. Dlamini, Z., Francies, F. Z., Hull, R., & Marima, R. (2020). Artificial intelligence (AI) and big data in cancer and precision oncology. Computational and Structural Biotechnology Journal, 18, 2300- 2311. https://doi.org/10.1016/j.csbj.2020.08.019
