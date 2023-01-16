@@ -3,17 +3,7 @@
 image used from [www.medibot.com.au/ai-general-practice-dentist.php](http://www.medibot.com.au/ai-general-practice-dentist.php)
 >
 >
-## Index:
-
-1. [Introduction](#Introduction)
-
-2. [AI-Driven solutions in healthcare](#AI-Driven)
-
-3. [Challenges](#Challenges)
-
-4. [Conclusion](#Conclusion)
-
-5. [Sources](#Sources)
+{:toc}
 \
 \
 \
