@@ -1,8 +1,8 @@
 ![](main_img.jpg)
 
 image used from [www.medibot.com.au/ai-general-practice-dentist.php](http://www.medibot.com.au/ai-general-practice-dentist.php)
--
--
+>
+>
 ## Index:
 
 1. [Introduction](#Introduction)
@@ -19,17 +19,16 @@ image used from [www.medibot.com.au/ai-general-practice-dentist.php](http://www.
 &nbsp; - [Privacy](#Privacy)
 
 4. [Conclusion](#Conclusion)
-
--
--
-- 
+>
+>
+> 
 # How can AI create efficiency and effectiveness in Digital Health. What are the benefits and challenges to come.
--
--
--
-## **Introduction**
-<br/>
-<br/>
+>
+>
+>
+> ## **Introduction**
+>
+>
 Artificial intelligence (AI) is an emerging technology revolutionizing the healthcare sector. It is transforming healthcare in a variety of ways, from improving patient care to streamlining administrative tasks. The deployment of AI systems can improve efficiency regarding cost and time management by automating administrative tasks and repetitive processes that can be streamlined. It can also increase the effectiveness of medical procedures as AI can be used to analyze specific data and make connections or predictions that humans may not be able to when trying to diagnose a patient or developing new drugs and treatments, enabling healthcare professionals to make more informed decisions. This research paper will explore the potential improvements in healthcare with AI, the efficiency and effectiveness increase it could bring, and the challenges faced upon its implementation.
 <br/>
 <br/>
