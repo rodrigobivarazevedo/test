@@ -1,8 +1,8 @@
 ![](main_img.jpg)
 
 image used from [www.medibot.com.au/ai-general-practice-dentist.php](http://www.medibot.com.au/ai-general-practice-dentist.php)
-<br/>
-<br/>
+-
+-
 ## Index:
 
 1. [Introduction](#Introduction)
@@ -20,13 +20,13 @@ image used from [www.medibot.com.au/ai-general-practice-dentist.php](http://www.
 
 4. [Conclusion](#Conclusion)
 
-<br/>
-<br/>
-<br/> 
+-
+-
+- 
 # How can AI create efficiency and effectiveness in Digital Health. What are the benefits and challenges to come.
-<br/>
-<br/>
-<br/>
+-
+-
+-
 ## **Introduction**
 <br/>
 <br/>
