@@ -5,15 +5,15 @@ image used from [www.medibot.com.au/ai-general-practice-dentist.php](http://www.
 <br/>
 ## Index:
 
-1. Introduction
+1. **Introduction**
 
-2. AI-Driven solutions in healthcare
-<br/>
+2. **AI-Driven solutions in healthcare**
+
 &nbsp;- Diagnosis, Treatment and Patient Monitoring
-<br/>
+
 &nbsp;- Drug Discovery and Disease Modeling
 
-3. Challenges
+3. **Challenges**
 
 &nbsp;- Cost
 
@@ -21,7 +21,7 @@ image used from [www.medibot.com.au/ai-general-practice-dentist.php](http://www.
 
 &nbsp;- Privacy
 
-4. Conclusion
+4. **Conclusion**
 <br/>
 <br/>
 <br/> 
