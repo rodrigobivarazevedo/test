@@ -85,7 +85,7 @@ image used from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/](https://
 \
 \
 \
-## Challenges
+> ## Challenges
 \
 \
 The responsible and ethical development of AI in medicine requires the collaboration of multiple stakeholders, including clinicians, researchers, and industry partners. Although it has the potential to revolutionize healthcare, there are still challenges that need to be addressed before it can be widely adopted. These challenges include **cost**, **accuracy**, and **privacy**.
