@@ -7,13 +7,13 @@ image used from [www.medibot.com.au/ai-general-practice-dentist.php](http://www.
 
 1. [Introduction](#Introduction)
 
-2. [AI-Driven solutions in Healthcare](#AI-Driven solutions in Healthcare)
+2. [AI-Driven solutions in healthcare](#AI-Driven solutions in healthcare)
 
 3. [Challenges](#Challenges)
 
 4. [Conclusion](#Conclusion)
 
-5. [Souces](#Sources)
+5. [Sources](#Sources)
 \
 \
 \
