@@ -39,7 +39,7 @@ image used from [https://www.sciencedirect.com/science/article/pii/S200103702030
 \
 \
 \
-### [Diagnosis, Treatment and Patient Monitoring]
+### Diagnosis, Treatment and Patient Monitoring
 \
 \
 It is being used to develop more accurate and efficient methods of diagnosis and treatment while also having the capability to predict possible conditions related to certain symptoms, lifestyles, and social, economic, and geographical environments. AI-driven solutions have the potential to supplement or even replace traditional methods of diagnosis and treatment, such as manual diagnosis and manual treatments. AI-driven treatments can be used to personalize treatments and patient health profiles, which can help doctors better understand patient health and provide more personalized care.
@@ -60,7 +60,7 @@ image used from [https://link.springer.com/article/10.1007/s10462-021-10034-y](h
 \
 \
 \
-### [Drug Discovery and Disease Modeling](#){name=Drug-Discovery-and-Disease-Modeling}
+### Drug Discovery and Disease Modeling
 \
 \
 Developing new drugs can be more efficient. Large datasets can be analyzed and help to identify potential drug targets, as well as potential disease pathways. This can personalize the development of new treatments and better understand certain diseases' pathogenesis. AI-driven drug discovery solutions have the potential to significantly reduce the cost and time involved in drug discovery and development. 
