@@ -35,11 +35,11 @@ image used from [https://www.sciencedirect.com/science/article/pii/S200103702030
 \
 \
 \
-> ## [AI-Driven solutions in healthcare]
+> ## AI-Driven solutions in healthcare
 \
 \
 \
-### [Diagnosis, Treatment and Patient Monitoring](#){name=Diagnosis,-Treatment-and-Patient-Monitoring}
+### [Diagnosis, Treatment and Patient Monitoring]
 \
 \
 It is being used to develop more accurate and efficient methods of diagnosis and treatment while also having the capability to predict possible conditions related to certain symptoms, lifestyles, and social, economic, and geographical environments. AI-driven solutions have the potential to supplement or even replace traditional methods of diagnosis and treatment, such as manual diagnosis and manual treatments. AI-driven treatments can be used to personalize treatments and patient health profiles, which can help doctors better understand patient health and provide more personalized care.
