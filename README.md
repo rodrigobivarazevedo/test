@@ -1,6 +1,3 @@
-# Artificial Intelligence in Medicine
-
-
 
 # How can AI create efficiency and effectiveness in Digital Health. What are the benefits and challenges to come.
 
