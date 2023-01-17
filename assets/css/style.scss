@@ -1,3 +1,10 @@
+---
+---
+// variables declarations
+$font: Nunito, sans-serif;
+$font-color: #000;
+$content-width: 660px;
+//blue: #1e90ff
 @import "{{ site.theme }}";
 .page-header {
     color: #fff;
@@ -7,4 +14,20 @@
     //background-image: linear-gradient(to bottom right, red, yellow);
     background-size: cover;
 }
-
+//.main-content {
+  //h1,
+ // h2,
+  //h3,
+.body {
+  font-family: $font;
+  color: $font-color;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: normal;
+    color: #4a148c;
+    text-align: center;
+ }
