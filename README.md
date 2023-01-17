@@ -1,4 +1,6 @@
-# Index
+# Artificial Intelligence in Medicine
+
+## Index
 1. [Introduction](#Introduction)
 
 2. [AI-Driven solutions in healthcare](#AI-Driven-solutions-in-healthcare)
