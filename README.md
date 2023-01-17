@@ -35,7 +35,7 @@ image used from [https://www.sciencedirect.com/science/article/pii/S200103702030
 \
 \
 \
-> ## [AI-Driven solutions in healthcare](#){name=AI-Driven-solutions-in-healthcare}
+> ## [AI-Driven solutions in healthcare]
 \
 \
 \
