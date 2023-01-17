@@ -1,9 +1,5 @@
 ---
 ---
-// variables declarations
-$font: Nunito, sans-serif;
-$font-color: #000;
-$content-width: 660px;
 //blue: #1e90ff
 @import "{{ site.theme }}";
 page-header {
@@ -19,8 +15,8 @@ page-header {
  // h2,
   //h3,
 body {
-  font-family: $font;
-  color: $font-color;
+  font-family: Nunito, sans-serif;
+  color: #000;
 }
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
