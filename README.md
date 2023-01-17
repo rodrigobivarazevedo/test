@@ -22,7 +22,7 @@
 \
 \
 \
-> ## Introduction
+## Introduction
 \
 \
 Artificial intelligence (AI) is an emerging technology revolutionizing the healthcare sector. It is transforming healthcare in a variety of ways, from improving patient care to streamlining administrative tasks. The deployment of AI systems can improve efficiency regarding cost and time management by automating administrative tasks and repetitive processes that can be streamlined. It can also increase the effectiveness of medical procedures as AI can be used to analyze specific data and make connections or predictions that humans may not be able to when trying to diagnose a patient or developing new drugs and treatments, enabling healthcare professionals to make more informed decisions. This research paper will explore the potential improvements in healthcare with AI, the efficiency and effectiveness increase it could bring, and the challenges faced upon its implementation.
@@ -81,7 +81,7 @@ image used from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/](https://
 \
 \
 \
-> ## Challenges
+## Challenges
 \
 \
 The responsible and ethical development of AI in medicine requires the collaboration of multiple stakeholders, including clinicians, researchers, and industry partners. Although it has the potential to revolutionize healthcare, there are still challenges that need to be addressed before it can be widely adopted. These challenges include **cost**, **accuracy**, and **privacy**.
@@ -145,7 +145,7 @@ images used from [ https://www.eib.org/attachments/lucalli/20220206-european-cyb
 \
 \
 
-> ## Conclusion
+## Conclusion
 \
 \
 AI technology is changing the healthcare industry, with the potential to revolutionize the way that doctors practice medicine. **Although not perfect and still a lot to improve in regards to cost, accuracy, and privacy. AI-driven healthcare solutions have the potential to increase the effectiveness and efficiency of diagnosis and treatment, reduce costs, and improve the overall quality of care, by automating processes, streamlining operations, and providing more accurate diagnoses. Tasks and methods such as disease prevention, drug discovery, disease modeling, diagnosis, treatment, and patient monitoring will be improved and more streamlined.** Examples like scheduling appointments, billing, and patient health profiles can all be automated processes, as well as more personalized patient treatment and monitoring. 
@@ -154,7 +154,7 @@ The world is becoming more digitally oriented, and the amount of free and create
 \
 \
 \
-> ## Sources
+## Sources
 
  1. Dlamini, Z., Francies, F. Z., Hull, R., & Marima, R. (2020). Artificial intelligence (AI) and big data in cancer and precision oncology. Computational and Structural Biotechnology Journal, 18, 2300- 2311. https://doi.org/10.1016/j.csbj.2020.08.019
  
