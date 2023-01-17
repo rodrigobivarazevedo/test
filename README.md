@@ -12,7 +12,7 @@
 
 4. [Conclusion](#Conclusion)
 
-5. [Sources:](#Sources:)
+5. [Sources](#Sources)
 \
 \
 \
@@ -152,7 +152,7 @@ The world is becoming more digitally oriented, and the amount of free and create
 \
 \
 \
-## Sources:
+> ## Sources
 
  1. Dlamini, Z., Francies, F. Z., Hull, R., & Marima, R. (2020). Artificial intelligence (AI) and big data in cancer and precision oncology. Computational and Structural Biotechnology Journal, 18, 2300- 2311. https://doi.org/10.1016/j.csbj.2020.08.019
  
