@@ -14,6 +14,13 @@ page-header {
   //h1,
  // h2,
   //h3,
+
+p::after {
+  content: "-";
+  color: transparent;
+  display: block;
+}
+
 body {
   font-family: Nunito, sans-serif;
   color: #000000;
