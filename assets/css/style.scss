@@ -1,5 +1,25 @@
 ---
 ---
+
+.main-content h2 {
+  color: #1e6bb8;
+  padding-top:10px;
+  font-weight: bold;
+}
+
+.main-content p {
+  text-indent: 3em;
+  padding-bottom:10px;
+}
+
+.main-content blockquote p,
+.main-content li p { 
+  text-indent: 0;
+}
+
+
+
+
 //blue: #1e90ff
 @import "{{ site.theme }}";
 page-header {
